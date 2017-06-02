@@ -1,0 +1,16 @@
+{
+  "name": "api-rest-node-mu",
+  "version": "1.0.0",
+  "description": "API REST nodejs MU",
+  "main": "server.js",
+  "private": true,
+  "author": "Álvaro Cartichini",
+  "license": "MIT",
+  "scripts": {
+   	"start": "node ./server.js"
+  },
+  "dependencies": {
+    "express"       : "3.3.x",
+    "mongoose"      : "3.6.x" 
+  }
+}
